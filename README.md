@@ -30,7 +30,7 @@
 > 项目是由四个模块组成的，
 > 
 > - blog-common: 博客服务端的实体类
-> - blog-gateway: 博客的服务代理类（从前端接收请求，网关RSA解密后转发给服务端接口）
+> - blog-gateway: 博客的服务代理类
 > - blog-eureka: 微服务注册中心server
 > - blog-server: 主体服务端
 
